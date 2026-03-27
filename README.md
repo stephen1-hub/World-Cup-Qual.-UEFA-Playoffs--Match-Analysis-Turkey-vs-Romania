@@ -48,7 +48,7 @@ Set pieces (corners, free kicks)
 Romania:
 Limited open-play penetration
 Relied on isolated moments
-## Visual Insight (Your Shot Map)
+## Visual Insight
 
 Your shot map shows:
 
